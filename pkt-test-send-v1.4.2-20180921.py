@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#jazhu@hillstonenet.com
+#393620170@qq.com
 #2018-6-10
 #v1.4
 #根据用户提供数据创建数据包并发送出去
