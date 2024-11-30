@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#jazhu@hillstonenet.com
+#393620170@qq.com
 #2018-6-10
 #v1.2
 #支持发包和收包功能
